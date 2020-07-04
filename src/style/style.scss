@@ -1,0 +1,20 @@
+// Setup
+@import 'setup/variables';
+
+// Basics
+@import 'basic/base';
+@import 'basic/button';
+@import 'basic/input';
+@import 'basic/form';
+@import 'basic/layout';
+@import 'basic/text';
+
+// Components
+@import 'components/navbar';
+@import 'components/movie';
+@import 'components/moviedetails';
+@import 'components/moviefilter';
+@import 'components/about';
+
+// Responsive
+@import 'responsive/mobile';
